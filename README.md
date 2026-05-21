@@ -1,6 +1,6 @@
 # Custom Code
 
-A minimal WordPress plugin boilerplate for organizing custom shortcodes and snippets without relying on third-party code injection plugins like Code Snippets or WPCodeBox.
+A minimal WordPress plugin boilerplate for organizing custom shortcodes and snippets without relying on third-party code injection plugins.
 
 Built as a clean alternative to dumping everything into `functions.php`, while avoiding the overhead of a full code-snippets plugin.
 
