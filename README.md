@@ -122,7 +122,7 @@ The autoloader only picks up files ending in `.php`. Rename `gtm.php` to `gtm.ph
 - Each file starts with `if (!defined('ABSPATH')) exit;` to prevent direct access.
 - Output values are escaped using WordPress core functions (`esc_html`, `esc_attr`, `esc_js`, etc.).
 
-## Why not use Code Snippets or WPCodeBox?
+## Why not use Third Party Plugins on Your site?
 
 Those plugins are great for non-developers or teams who need a GUI to manage snippets. This boilerplate is for developers who prefer:
 
